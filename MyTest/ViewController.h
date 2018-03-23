@@ -13,3 +13,10 @@
 
 @end
 
+@class ViewController;
+@interface TestingInterface{
+    
+}
+    +(void)addNum;
+@end
+
