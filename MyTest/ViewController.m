@@ -25,7 +25,7 @@ int myFunc(int myInt){
 #pragma mark - 測試用標題 didLoad
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    //testing commit
 }
 - (IBAction)calculate:(id)sender {
     double myHigth = [_higth.text doubleValue];
